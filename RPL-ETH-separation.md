@@ -6,7 +6,7 @@ This is similar to no-RPL-bonded minipools idea, but different in some ways 👇
 in the sence that they MUST consist of staked ETH and a bonded RPL to initialize and operate.
 
 ## Minipools change
-because either ETH part or RPL part is provided by a NO depending on realization.
+because either ETH part or RPL part is provided by a NO depending on implementation.
 
 ### ETH-centric minipools and RPL pool
 - node is registered by a person holding ETH

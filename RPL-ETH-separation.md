@@ -39,4 +39,5 @@ because either ETH part or RPL part is provided by a NO depending on implementat
 
 ## Voting right
 is always given to RPL holder bonding to a node (in the case of RPL pool it is unclear how to provide it).
+
 Rationale? RPL holders are aligned with RPL and hence with RP the most, while ETH holders can use a variety of staking options.

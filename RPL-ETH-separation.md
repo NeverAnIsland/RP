@@ -38,6 +38,23 @@ because either ETH part or RPL part is provided by a NO depending on implementat
 - it makes it possible to lower RPL inflation, because RPL holders get way too much profit
 
 ## Voting right
-is always given to RPL holder bonding to a node (in the case of RPL pool it is unclear how to provide it).
+is always given to RPL holder bonding to a node (in RPL-centric approach a voting can be implemented though a RPL pool vault, which accounts for RPL utilization to calc exact voting power).
 
 Rationale? RPL holders are aligned with RPL and hence with RP the most, while ETH holders can use a variety of staking options.
+
+## Numbers
+
+### ETH-centric
+TODO.
+
+### RPL-centric
+TODO.
+
+### Extreme RPL-centric
+Input: LEB8, RPL collateral is 8 ETH worth of RPL.
+
+With current PRL price `0.014` it would take `26,000 * 8 / 0.014 ~= 14,860,000` RPL to run all existing `26,000` minipools, or about 75% of current RPL supply.
+
+For currently staked `10,140,000` RPL an equilibrium price would be `26,000 * 8 / 10,140,000 = 0.02`.
+
+At the maturity, where 24M of RPL supply is staked, 66% of 120M ETH is staked and 22% of staked ETH is locked in RP, RPL price would be `120,000,000 * 0.66 * 0.22 / 32 * 8 / 24,000,000 = 0.18`.

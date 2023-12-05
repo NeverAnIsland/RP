@@ -51,7 +51,7 @@ TODO.
 TODO.
 
 ### Extreme RPL-centric
-Input: LEB8, RPL collateral is 8 ETH worth of RPL.
+Input: LEB8-like minipool, RPL collateral is 8 ETH worth of RPL.
 
 With current PRL price `0.014` it would take `26,000 * 8 / 0.014 ~= 14,860,000` RPL to run all existing `26,000` minipools, or about 75% of current RPL supply.
 

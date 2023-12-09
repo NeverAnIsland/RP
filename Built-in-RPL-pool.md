@@ -88,13 +88,13 @@ In general a RPL valuation model stays the same as it is now, because all
 minipools still bond RPL.
 
 #### Pool possible APR
-Inputs:
-Current RPL APR = 7.27%.
-Current RPL price = 0.014.
+Inputs:  
+Current RPL APR = 7.27%.  
+Current RPL price = 0.014.  
 Current AAVE utilization = 40% (or 190K of 480K RPL).
 
-Imagine the same demand:
-We get 1000 LEB8 funded (`190,000 * 0.014 / (24 * 0.10) ~= 1000`)
+Imagine the same demand:  
+We get 1000 LEB8 funded (`190,000 * 0.014 / (24 * 0.10) ~= 1000`)  
 Pool APR is `0.0727 * 0.40 = 2.9%` which is twice as high as AAVE average RPL
 supply APR 1.46%.
 

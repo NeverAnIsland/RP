@@ -99,7 +99,7 @@ Pool APR is `0.0727 * 0.40 = 2.9%` which is twice as high as AAVE average RPL
 supply APR 1.46%.
 
 ### Extra (out of scope)
-#### Pool fee deducted commission directions
+#### Pool fee and deducted commission directions
 Options presented here are not mutually exclusive and can be mixed, which
 allows for a great flexibility for achieving desired outcomes.
 

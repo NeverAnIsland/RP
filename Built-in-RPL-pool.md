@@ -4,7 +4,8 @@ Current tokenomics require node operators to supply RPL to run minipools, and
 it is known to be a blocker for risk-averse players, thus hindering RP growth.
 Here I explore one possible way to enrich NO UX by allowing an option to create
 minipools without the need to invest into RPL token. It is based on a built-in
-RPL pool that lends RPL to such minipools and collects part of their commission.
+RPL pool that lends RPL to such minipools, captures a portion of inflation and
+a part of their commission.
 
 ## Details
 ### Seamless RPL borrowing
@@ -36,7 +37,7 @@ borrowed RPL from the pool.
 3. Minipools funded this way get a share of RPL inflation as normal, but
 claiming RPL rewards is different:
     - Instead of NO RPL rewards are claimed by the pool.
-    - A portion or all RPL rewards goes to the pool
+    - A portion or all RPL rewards goes to the pool.
     - A portion (≥ 0) of RPL rewards can be burned or used in pDAO interests
     (think of it as a pool fee).
         - It is possible to collect a pool fee for funding a protocol owned
